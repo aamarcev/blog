@@ -36,7 +36,7 @@ interests:
 # Education to show in About widget
 education:
   courses:
-    - course: Computer and informational science 
+    - course: Computer and information science 
       institution: RUDN university
       year: 2023
 
