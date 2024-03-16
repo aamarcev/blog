@@ -3,7 +3,7 @@
 title: Arkadiy Marcev
 
 # Name pronunciation (optional)
-name_pronunciation: Arkadiy Martsev
+name_pronunciation: 
 
 # Full name (for SEO)
 first_name: Arkadiy
@@ -114,5 +114,5 @@ social:
 highlight_name: true
 ---
 
-Chien Shiung Wu is a professor of artificial intelligence at the Stanford AI Lab. Her research interests include distributed robotics, mobile computing and programmable matter. She leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+Arkadiy Martsev is a student at the RUDN university. His prefrences in studying include computer science, server architecture in particular. Also he is fond of maths and the corelation between math and IT. One of his favourite hobbies is gaming, which he is into from the youngest ages. One of his main interests is acomplishing new hights at the fields of study that he is learning.
 {style="text-align: justify;"}
